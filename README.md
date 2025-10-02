@@ -14,7 +14,7 @@
 ![Snake animation](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake.svg)
 
 ## 🙍‍♂️ Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/mirconegri/count.svg)
+![Visitor Counter](https://raw.githubusercontent.com/mirconegri/mirconegri/output/visitor-counter.svg)
 
 ## 🌍 Dove trovarmi
 🔗 [LinkedIn](https://www.linkedin.com/in/mirco-negri-263810225)
