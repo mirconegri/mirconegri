@@ -16,6 +16,13 @@
 ## 🙍‍♂️ Visitor Counter
 ![Visitor Counter](https://mirconegri.github.io/mirconegri/visitor-counter.svg)
 
+## 🌍 Fuori dal codice
+
+⛺ Attivo nel movimento scout, sviluppando leadership e lavoro di squadra  
+🎾 Appassionato di tennis, con impegno e disciplina nello sport  
+🥁 Batterista con interesse per la musica e la pratica strumentale  
+🎬 Studioso di cinema, con attenzione alla storia e all’analisi dei film  
+
 ## 🌍 Dove trovarmi
 🔗 [LinkedIn](https://www.linkedin.com/in/mirco-negri-263810225)
 📫 Email: mirconegri06@gmail.com
