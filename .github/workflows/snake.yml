@@ -11,13 +11,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mirconegri
           outputs: dist/github-contribution-grid-snake.svg
-
       - name: Upload to GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
