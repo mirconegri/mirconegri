@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Ciao, sono Mirco!  
 
-<!--
-**mirconegri/mirconegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Studente appassionato di informatica | 🚀 
+🎯 Obiettivo: imparare, creare e condividere progetti.  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologie & Strumenti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## 📊 Statistiche GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=mirconegri&show_icons=true&theme=radical)
+
+## ✨ Fun stuff
+![Snake animation](https://github.com/mirconegri/mirconegri/blob/output/github-contribution-grid-snake.svg)
+
+### 🌍 Dove trovarmi
+🔗 [LinkedIn](https://www.linkedin.com/in/mirconegri)  
+📫 Email: mirconegri06@gmail.com
