@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Mirco!
 
-💻 Computer Science student | 🚀  
-🎯 Goal: learn, create, and share projects.
+💻 Computer Science student at the University of Trento | 🚀  
+🎓 Graduated from High School in Applied Sciences  
+🎯 Goal: Learn, create, and share projects
 
 ## 🛠️ Technologies & Tools
 
