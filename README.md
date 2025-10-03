@@ -10,10 +10,10 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=mirconegri&show_icons=true&theme=radical)
 
-## ✨ Visitor Counter
+## 🙍‍♂️ Visitor Counter
 ![Visitor Counter](https://mirconegri.github.io/mirconegri/visitor-counter.svg)
 
-## 🌍 Beyond Coding
+## ✨ Beyond Coding
 ⛺ Scout  
 🎾 Tennis  
 🥁 Drums  
