@@ -1,0 +1,20 @@
+name: Auto Commit
+on:
+  schedule:
+    - cron: '0 9 * * *' # ogni giorno alle 9:00 UTC
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Modifica file
+        run: |
+          echo "$(date)" >> log.txt
+      - name: Commit e push
+        run: |
+          git config user.name "MircoNegriBot"
+          git config user.email "you@example.com"
+          git add .
+          git commit -m "Aggiornamento automatico del log $(date)"
+          git push
