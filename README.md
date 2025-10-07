@@ -12,7 +12,7 @@
 
 ## 🙍‍♂️ Visitor Counter
 ![Visitor Counter](https://mirconegri.github.io/mirconegri/visitor-counter.svg)
-
+ 
 ## ✨ Beyond Coding
 ⛺ Scout  
 🎾 Tennis  
