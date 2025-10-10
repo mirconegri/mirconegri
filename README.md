@@ -14,7 +14,6 @@
 Powered by caffeine, curiosity, and commits ☕💻  
 The more I code, the longer it grows 🐍  
 
-![snake gif](https://github.com/MircoNegri/MircoNegri/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake.svg)
 
 ---
