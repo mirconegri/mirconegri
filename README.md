@@ -9,7 +9,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)      ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)      ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)      ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css3&logoColor=white)      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+## 🐍 Mirco’s GitHub Snake
 
+Powered by caffeine, curiosity, and commits ☕💻  
+The more I code, the longer it grows 🐍  
+
+![snake gif](https://github.com/MircoNegri/MircoNegri/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake.svg)
 
 ---
