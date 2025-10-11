@@ -19,7 +19,7 @@ The more I code, the longer it grows 🐍
 
 ## 🚀 Featured Projects
 - [LaundryBot](https://github.com/mirconegri/LaundryBot) - Telegram bot to manage laundry bookings at my dorm
-- [MovieRecommender](https://github.com/mirconegri/MovieRecommender) - Telegram bot to manage laundry bookings at my dorm
+- [MovieRecommender](https://github.com/mirconegri/MovieRecommender) - A modern movie recommender app using TMDb API — built with Python and Tkinter
 - [Portfolio Website](https://github.com/mirconegri/portfolio) - My personal web projects
 
 ---
