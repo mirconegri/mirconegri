@@ -5,8 +5,19 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 9 * * *' # ogni giorno alle 9:00 UTC
-  workflow_dispatch:     # opzionale, ti permette di eseguirlo manualmente
+    # 10 commit al giorno, ogni 2 ore e 24 minuti (circa)
+    - cron: "0 0 * * *"    # mezzanotte
+    - cron: "24 2 * * *"   # 02:24
+    - cron: "48 4 * * *"   # 04:48
+    - cron: "12 7 * * *"   # 07:12
+    - cron: "36 9 * * *"   # 09:36
+    - cron: "0 12 * * *"   # 12:00
+    - cron: "24 14 * * *"  # 14:24
+    - cron: "48 16 * * *"  # 16:48
+    - cron: "12 19 * * *"  # 19:12
+    - cron: "36 21 * * *"  # 21:36
+  workflow_dispatch: # permette anche l'avvio manuale
+
 
 jobs:
   build:
