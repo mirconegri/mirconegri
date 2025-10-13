@@ -20,6 +20,10 @@ The more I code, the longer it grows 🐍
 
 ## 🚀 Featured Projects
 
+🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) – Telegram bot to manage laundry bookings at my dorm  
+🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) – A modern movie recommender app using TMDb API — built with Python and Tkinter  
+🔥 [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) – Python app to generate a scout camp menu and shopping list for active teenagers (16–18 years old)  
+🌐 [**Portfolio Website**](https://github.com/mirconegri/Portfolio) – My personal web projects
 
 - [LaundryBot](https://github.com/mirconegri/LaundryBot) - Telegram bot to manage laundry bookings at my dorm
 - [MovieRecommender](https://github.com/mirconegri/MovieRecommender) - A modern movie recommender app using TMDb API — built with Python and Tkinter
