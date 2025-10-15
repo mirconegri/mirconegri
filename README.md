@@ -12,8 +12,6 @@
 
 ## 🐍 Mirco’s GitHub Snake
 
-Powered by caffeine, curiosity, and commits ☕💻  
-The more I code, the longer it grows 🐍  
 ![Snake animation](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake.svg)
 
 ---
