@@ -39,4 +39,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/mirco-negri-263810225)  
 📫 Email: mirconegri06@gmail.com
 
-![](.githubworkflows/Bottom_down.svg)
+![](.github/workflows/Bottom_down.svg)
