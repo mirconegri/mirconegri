@@ -14,8 +14,7 @@
 ## 🐍 My Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirconegri/mirconegri/.workflows/snake-dark.svg">
-  
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mirconegri/mirconegri/output/snake-dark.svg">
 </picture>
 
 ---
