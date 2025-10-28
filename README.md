@@ -38,3 +38,5 @@
 ## 🌍 Where to find me
 🔗 [LinkedIn](https://www.linkedin.com/in/mirco-negri-263810225)  
 📫 Email: mirconegri06@gmail.com
+
+![](assets/Bottom_down.svg)
