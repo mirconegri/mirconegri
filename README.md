@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mirco!
 
 💻 Computer Science student at the University of Trento   
-🎓 Graduated from High School in Applied Sciences  
 
 ---
 
