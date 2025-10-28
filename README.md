@@ -13,12 +13,7 @@
 
 ## 🐍 My Snake
   
-
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mirconegri/mirconegri/output/snake-dark.svg">
-  
   ![github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
-
-  
   
 ---
 
