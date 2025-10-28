@@ -2,7 +2,7 @@
 
 💻 Computer Science student at the University of Trento   
 
-
+---
 
 ## 🛠️ Technologies & Tools
 
