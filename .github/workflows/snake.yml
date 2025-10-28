@@ -15,11 +15,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake - Light
         uses: Platane/snk@v3
         with:
           github_user_name: mirconegri
-          outputs: dist/github-contribution-grid-snake.svg
+          theme: light
+          outputs: dist/snake-light.svg
+
+      - name: Generate Snake - Dark
+        uses: Platane/snk@v3
+        with:
+          github_user_name: mirconegri
+          theme: dark
+          outputs: dist/snake-dark.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
