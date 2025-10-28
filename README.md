@@ -13,7 +13,10 @@
 
 ## 🐍 My Snake
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirconegri/mirconegri/.workflows/snake-dark.svg">
+  
+</picture>
 
 ---
 
