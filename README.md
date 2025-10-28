@@ -13,7 +13,7 @@
 
 ## 🐍 My Snake
   
-  ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+  ![BEPb's github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
 
   
 ---
