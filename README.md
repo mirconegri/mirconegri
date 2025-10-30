@@ -2,13 +2,7 @@
 
 # 👋 Hi, I'm Mirco!
 
-💻 1st year of Computer Science at the <a href="https://www.disi.unitn.it/" style="color:#00c853;">University of Trento</a>.
-
-[![University of Trento](https://img.shields.io/badge/University%20of%20Trento-%2300c853?style=flat)](https://www.disi.unitn.it/)
-
-
-[![](https://img.shields.io/badge/University%20of%20Trento-1DB954?style=for-the-badge&logo=academia&logoColor=white)](https://www.disi.unitn.it/)
-
+💻 1st year of Computer Science at the 
 [![](https://img.shields.io/badge/University%20of%20Trento-00bfa5?style=flat&logo=graduation-cap&logoColor=white)](https://www.disi.unitn.it/)
 ---
 
