@@ -4,6 +4,7 @@
 
 💻 1st year of Computer Science at the <a href="https://www.disi.unitn.it/" style="color:#00c853;">University of Trento</a>.
 
+[![University of Trento](https://img.shields.io/badge/University%20of%20Trento-%2300c853?style=flat)](https://www.disi.unitn.it/)
 ---
 
 
