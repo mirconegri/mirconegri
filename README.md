@@ -26,7 +26,7 @@
 
 - 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) – Telegram bot to manage laundry bookings at my dorm  
 - 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) – A modern movie recommender app using TMDb API — built with Python and Tkinter  
-- 🏕️ [ScoutMealPlanner](https://github.com/mirconegri/ScoutMealPlanner) – Python app to generate a scout camp menu and shopping list for active teenagers
+- 🏕️ [ScoutMealPlanner](https://github.com/mirconegri/ScoutMealPlanner) [![](https://img.shields.io/badge/University%20of%20Trento-00bfa5?style=flat&logo=graduation-cap&logoColor=white)](https://www.disi.unitn.it/) – Python app to generate a scout camp menu and shopping list for active teenagers
 - 🗂️ [**PdfMerger**](https://github.com/mirconegri/PdfMerger) – A simple application to merge multiple PDF documents
 - 🌐 [**Portfolio Website**](https://github.com/mirconegri/Portfolio) – My personal web projects
 
