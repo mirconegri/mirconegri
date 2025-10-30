@@ -2,7 +2,7 @@
 a:not(:has(img)) {
   color: #00c853 !important;
 }
-</style>
+
 
 # 👋 Hi, I'm Mirco!
 
@@ -50,4 +50,5 @@ a:not(:has(img)) {
 
 ![](.github/workflows/Bottom_down.svg)
 
+</style>
 
