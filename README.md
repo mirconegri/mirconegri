@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Mirco!
 
-💻 Computer Science student at the University of Trento   
+💻 Computer Science student at the [University of Trento](https://www.disi.unitn.it/).  
 
 ---
+
+Hi there, I'm Luca, a Bachelor’s student in Computer Science at the [University of Trento]
+
 
 ## 🛠️ Technologies & Tools
 
