@@ -1,3 +1,9 @@
+<style>
+a:not(:has(img)) {
+  color: #00c853 !important;
+}
+</style>
+
 # 👋 Hi, I'm Mirco!
 
 💻 1st year of Computer Science at the [University of Trento](https://www.disi.unitn.it/).  
