@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Mirco!
 
-💻 1st year of Computer Science at the 
-[![](https://img.shields.io/badge/University%20of%20Trento-00bfa5?style=flat&logo=graduation-cap&logoColor=white)](https://www.disi.unitn.it/)
+💻 1st year of Computer Science at the [![](https://img.shields.io/badge/University%20of%20Trento-00bfa5?style=flat&logo=graduation-cap&logoColor=white)](https://www.disi.unitn.it/)
 ---
 
 
