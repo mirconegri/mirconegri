@@ -8,6 +8,8 @@
 
 
 [![](https://img.shields.io/badge/University%20of%20Trento-1DB954?style=for-the-badge&logo=academia&logoColor=white)](https://www.disi.unitn.it/)
+
+[![](https://img.shields.io/badge/University%20of%20Trento-00bfa5?style=flat&logo=graduation-cap&logoColor=white)](https://www.disi.unitn.it/)
 ---
 
 
