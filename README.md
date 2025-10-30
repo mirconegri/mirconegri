@@ -4,8 +4,6 @@
 
 ---
 
-Hi there, I'm Luca, a Bachelor’s student in Computer Science at the [University of Trento]
-
 
 ## 🛠️ Technologies & Tools
 
