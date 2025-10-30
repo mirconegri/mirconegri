@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mirco!
 
-💻 Computer Science student at the [University of Trento](https://www.disi.unitn.it/).  
+💻 1st year of Computer Science at the [University of Trento](https://www.disi.unitn.it/).  
 
 ---
 
