@@ -6,7 +6,7 @@ a:not(:has(img)) {
 
 # 👋 Hi, I'm Mirco!
 
-💻 1st year of Computer Science at the [University of Trento](https://www.disi.unitn.it/).  
+💻 1st year of Computer Science at the <a href="https://www.disi.unitn.it/" style="color:#00c853;">University of Trento</a>.
 
 ---
 
