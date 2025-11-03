@@ -1,4 +1,6 @@
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hi%20👋,%20I'm%20Ruturaj&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true"/>
+</p>
 
 # 👋 Hi, I'm Mirco!
 
