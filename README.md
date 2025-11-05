@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 🛠️ Technologies & Tools
 
 
