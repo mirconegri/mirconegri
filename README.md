@@ -2,10 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hi%20👋,%20I'm%20Mirco&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true"/>
 </p>
 
-💻 1st year of Computer Science at the [University of Trento](https://www.disi.unitn.it/)
-
----
-
 ## 🛠️ Technologies & Tools
 
 
