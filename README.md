@@ -26,7 +26,7 @@
 
 ---
 
-# 🎓 University
+## 🎓 University
 
 - 🗃️ [**UniArchive**](https://github.com/mirconegri/University) – My University archive 
 
