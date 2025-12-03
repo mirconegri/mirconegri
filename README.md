@@ -31,7 +31,6 @@
 
 ---
 
-
 ## ✨ Beyond Coding
 ⛺ Scout  
 🎾 Tennis  
