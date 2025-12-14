@@ -21,8 +21,9 @@
 - 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) – A modern movie recommender app using TMDb API — built with Python and Tkinter  
 - 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) – Python app to generate a scout camp menu and shopping list for scout
 - 📄 [**PdfMerger**](https://github.com/mirconegri/PdfMerger) – A simple application to merge multiple PDF documents
-- 🌐 [**Portfolio Website**](https://github.com/mirconegri/Portfolio) – My personal web projects
+- 🌐 [**Portfolio Website**](https://github.com/mirconegri/Portfolio) – My personal web project
 - 📦 [**QR Generator**](https://github.com/mirconegri/QrGenerator) Python script that generates a QR code from a string or URL.
+
 
 ---
 
