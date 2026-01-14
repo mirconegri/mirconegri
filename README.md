@@ -42,8 +42,6 @@
 [![](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirco_negri_?igsh=MWtlbXY0a3R4NTJmNA==)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/172rhaPCUK/)
 
-
-## 🐍 My Snake
   
   ![github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
   
