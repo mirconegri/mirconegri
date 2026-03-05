@@ -27,13 +27,6 @@
 
 - 🗃️ [**UniArchive**](https://github.com/mirconegri/University) – My University archive 
 
----
-
-## ✨ Beyond Coding
-⛺ Scout  
-🎾 Tennis  
-🥁 Drums  
-🎬 Cinema
 
 ---
 
