@@ -20,7 +20,6 @@
 - 🎭 [**Carnival Effects**](https://github.com/mirconegri/CarnivalVisualEffects) – Audio-reactive web visualizer projected on screens during a DJ set at my dorm's Carnival party
 - 🌐 [**Portfolio Website**](https://github.com/mirconegri/Portfolio) – My personal web project
 
-
 ---
 
 ## 🎓 University
