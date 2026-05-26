@@ -24,7 +24,7 @@
 
 ## 🎓 University
 
-- 🗃️ [**UniArchive**](https://github.com/mirconegri/University) – My University archive 
+- 🗃️ [**UniArchive**](https://github.com/mirconegri/University) – My University archive, featuring my personal notes and $\LaTeX$ study guides
 
 
 ---
