@@ -18,7 +18,7 @@
 - 📄 [**PdfMerger**](https://github.com/mirconegri/PdfMerger) – A simple application to merge multiple `PDF` documents
 - 📦 [**QR Generator**](https://github.com/mirconegri/QrGenerator) `Python` script that generates a `QR` code from a string or `URL`
 - 🎭 [**Carnival Effects**](https://github.com/mirconegri/CarnivalVisualEffects) – Audio-reactive web visualizer projected on screens during a `DJ` set at my dorm's Carnival party
-- 🌐 [**Personal Website**](https://github/mirconegri/mirconegri.com/) – My personal web project
+- 🌐 [**Personal Website**](https://github.com/mirconegri/mirconegri.com) – My personal web project
 
 ---
 
