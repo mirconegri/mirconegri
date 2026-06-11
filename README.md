@@ -18,7 +18,7 @@
 - 📄 [**PdfMerger**](https://github.com/mirconegri/PdfMerger) – A simple application to merge multiple `PDF` documents
 - 📦 [**QR Generator**](https://github.com/mirconegri/QrGenerator) `Python` script that generates a `QR` code from a string or `URL`
 - 🎭 [**Carnival Effects**](https://github.com/mirconegri/CarnivalVisualEffects) – Audio-reactive web visualizer projected on screens during a `DJ` set at my dorm's Carnival party
-- 🍅 [Pomodoro Gravity Cube](https://github.com/mirconegri/pomodorogravitycube) – A physical `gravity-controlled productivity` timer inside a custom wooden shell
+- 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/pomodorogravitycube) – A physical `gravity-controlled productivity` timer inside a custom wooden shell
 - 🌐 [**Personal Website**](https://github.com/mirconegri/mirconegri.com) – My personal web project
 
 ---
