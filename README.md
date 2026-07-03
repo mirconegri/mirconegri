@@ -20,6 +20,7 @@
 - 🎭 [**Carnival Effects**](https://github.com/mirconegri/CarnivalVisualEffects) – Audio-reactive web visualizer projected on screens during a `DJ` set at my dorm's Carnival party
 - 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/pomodorogravitycube) – A physical `gravity-controlled productivity` timer inside a custom wooden shell
 - 🌐 [**Personal Website**](https://github.com/mirconegri/mirconegri.com) – My personal web project
+- 🌐 [**LifeOs**](https://github.com/mirconegri/LifeOsApp) – A personal life operating system built with React Native and Expo, designed specifically for Android 
 
 ---
 
