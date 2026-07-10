@@ -68,7 +68,7 @@ Sono uno studente di Informatica presso l'Università di Trento con un forte int
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOS) | Applicazione Android per la gestione personale (esami, finanze, task). | React Native, Expo |
+| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOSApp) | Applicazione Android per la gestione personale (esami, finanze, task). | React Native, Expo |
 | 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Bot Telegram per la gestione e prenotazione dei turni lavanderia nello studentato. | Python |
 | 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software per la generazione automatica di menu e liste della spesa per campi scout. | Python |
 | 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Visualizzatore web audio-reattivo per proiezioni live durante eventi universitari. | JS, Web Audio API |
