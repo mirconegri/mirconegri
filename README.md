@@ -15,34 +15,34 @@
 
 ## About Me
 
-Sono uno studente di Informatica presso l'Università di Trento con un forte interesse per la gestione dei dati, lo sviluppo software e l'automazione. Accanto al percorso accademico, dedico il mio tempo al volontariato attivo e alla crescita della comunità attraverso attività di soccorso e scautismo.
+I am a Computer Science student at the University of Trento with a strong interest in data management, software development, and automation. Alongside my academic journey, I dedicate my time to active volunteering and community growth through rescue and scouting activities.
 
-- 🎓 **Attuale:** Laurea Triennale in Informatica (Università di Trento)
-- 💻 **Aree di focus:** Database, Programmazione software, Intelligenza Artificiale e Big Data
-- 🥁 **Interessi civici e personali:** Automazione dei processi, vita di comunità, primo soccorso e musica (batteria)
+- 🎓 **Current:** B.Sc. in Computer Science (University of Trento)
+- 💻 **Focus Areas:** Databases, Software Programming, Artificial Intelligence, and Big Data
+- 🥁 **Civic & Personal Interests:** Process automation, community living, first aid, and music (drums)
 
 ---
 
 ## Education & Certifications
 
 ### Education
-* **B.Sc. in Computer Science** — Università di Trento *(Set 2025 – Presente)*
+* **B.Sc. in Computer Science** — Università di Trento *(Sep 2025 – Present)*
 * **High School Diploma (Applied Science)** — Liceo Primo Levi, Badia Polesine *(2020 – 2025)*
-* **English Intensive Course (C1)** — EF Education First, Dublin *(Giu 2024 – Lug 2024)*
+* **English Intensive Course (C1)** — EF Education First, Dublin *(Jun 2024 – Jul 2024)*
 
 ### Certifications
-* **Everyday AI – Introduction to Artificial Intelligence Data** — Università di Trento *(Dic 2025)*
-* **TiDiRES: Responsible Use of Educational Technologies** — Università di Trento *(Dic 2025)*
+* **Everyday AI – Introduction to Artificial Intelligence Data** — Università di Trento *(Dec 2025)*
+* **TiDiRES: Responsible Use of Educational Technologies** — Università di Trento *(Dec 2025)*
 * **English B2** — Cambridge English *(Mar 2025)*
 
 ---
 
 ## Experience & Volunteering
 
-* **IT Lab Teacher** @ *Auser* *(Set 2023 – Feb 2024)*
-  *Conduzione di workshop pratici sull'utilizzo dello smartphone per adulti e anziani, promuovendo l'inclusione digitale.*
-* **Volunteer Rescuer** @ *A.V.P. Associazione Volontari Polesani* *(Mar 2025 – Presente)*
-* **Associate & Volunteer** @ *AGESCI* *(Set 2012 – Presente)*
+* **IT Lab Teacher** @ *Auser* *(Sep 2023 – Feb 2024)*
+  *Led practical smartphone workshops for adults and seniors, promoting digital inclusion.*
+* **Volunteer Rescuer** @ *A.V.P. Associazione Volontari Polesani* *(Mar 2025 – Present)*
+* **Associate & Volunteer** @ *AGESCI* *(Sep 2012 – Present)*
 
 ---
 
@@ -68,14 +68,14 @@ Sono uno studente di Informatica presso l'Università di Trento con un forte int
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOSApp) | Applicazione Android per la gestione personale (esami, finanze, task). | React Native, Expo |
-| 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Bot Telegram per la gestione e prenotazione dei turni lavanderia nello studentato. | Python |
-| 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software per la generazione automatica di menu e liste della spesa per campi scout. | Python |
-| 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Visualizzatore web audio-reattivo per proiezioni live durante eventi universitari. | JS, Web Audio API |
-| 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | Timer di Pomodoro controllato tramite gravità (hardware Arduino in scocca di legno). | C++, Arduino |
-| 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | Desktop app per la raccomandazione di film basata su genere tramite API TMDb. | Python, Tkinter |
+| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOSApp) | Personal management Android app (exams, finances, tasks). | React Native, Expo |
+| 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Telegram bot for managing and booking laundry shifts at the student dorm. | Python |
+| 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software for automatically generating menus and shopping lists for scout camps. | Python |
+| 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Audio-reactive web visualizer for live projections during university events. | JS, Web Audio API |
+| 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | Gravity-controlled Pomodoro timer (Arduino hardware inside a wooden shell). | C++, Arduino |
+| 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | Desktop app for genre-based movie recommendations using the TMDb API. | Python, Tkinter |
 
-*Nota: Tutto il materiale di studio, gli appunti universitari e le dispense scritte in LaTeX sono raccolti nel repository dedicato [**UniArchive**](https://github.com/mirconegri/University).*
+*Note: All study materials, university notes, and LaTeX cheat sheets are collected in the dedicated repository [**UniArchive**](https://github.com/mirconegri/University).*
 
 ---
 
