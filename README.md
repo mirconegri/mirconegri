@@ -1,80 +1,86 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hi%20👋,%20I'm%20Mirco&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true"/>
+<h1 align="center">Mirco Negri</h1>
+<p align="center">
+  <strong>Computer Science Student @ University of Trento</strong><br>
+  <span>Software Developer • Volunteer Rescuer • Tech Enthusiast</span>
 </p>
 
-<p align="center"><i>Computer Science Student @ UniTrento — developer, scout, rescuer.</i></p>
-
-## 👨‍💻 About Me
-
-- 🎓 **Studying:** B.Sc. in Computer Science @ University of Trento
-- 💻 **Focus:** Databases, Programming, AI, and Big Data
-- 🚑 **Community:** Volunteer Rescuer (A.V.P.) & Scout (AGESCI)
-- 🥁 **Interests:** Playing drums, community living, and automation
-
-## 💼 Experience & Volunteering
-
-- 👨‍🏫 **IT Lab Teacher** @ *Auser* (Sep 2023 – Feb 2024)
-  *Led smartphone workshops for adults and seniors, promoting digital inclusion and practical tech skills.*
-- 🚑 **Volunteer Rescuer** @ *A.V.P. Associazione Volontari Polesani* (Mar 2025 – Present)
-- ⚜️ **Associate & Volunteer** @ *AGESCI* (Sep 2012 – Present)
-
-## 🎓 Education & Certifications
-
-**Education**
-- 🏛️ **B.Sc. in Computer Science** — Università di Trento (Sep 2025 – Present)
-- 🏫 **High School Diploma (Applied Science)** — Liceo Primo Levi, Badia Polesine (2020 – 2025)
-- 🇮🇪 **English Intensive Course (C1)** — EF Education First, Dublin (Jun 2024 – Jul 2024)
-
-**Certifications**
-- 🤖 **Everyday AI – Introduction to Artificial Intelligence Data** — Università di Trento (Dec 2025)
-- 📚 **TiDiRES: Responsible Use of Educational Technologies** — Università di Trento (Dec 2025)
-- 🇬🇧 **English B2** — Cambridge English (Mar 2025)
-
-## 🛠️ Skills & Tech Stack
-
-**Hard Skills**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PolyML](https://img.shields.io/badge/PolyML-4B275F?style=for-the-badge&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-**Soft Skills**
-
-`Problem Solving` `Public Speaking` `Teaching & E-learning` `Cross-Cultural Communication` `Leadership` `Adaptability` `Diversity & Inclusion`
-
-## 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOS) | A personal life-management app for Android — exams, finances, tasks, and goals, built with React Native and Expo. |
-| 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | A Telegram bot to manage laundry bookings at my university dorm. |
-| 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | A Python app that generates scout camp menus and automated shopping lists. |
-| 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | An audio-reactive web visualizer projected on screens during a DJ set at my dorm's Carnival party. |
-| 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | A Tkinter desktop app that recommends top-rated movies by genre via the TMDb API. |
-| 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | A buttonless, gravity-controlled Pomodoro timer built with Arduino inside a custom wooden shell. |
-| 🌐 [**mirconegri.com**](https://github.com/mirconegri/mirconegri.com) | My personal portfolio website — HTML, CSS, JS, and Three.js. |
-| 🗂️ [**FileMerger**](https://github.com/mirconegri/FileMerger) | A C++ command-line tool that merges PDF files via Ghostscript. |
-| 📦 [**QR Generator**](https://github.com/mirconegri/QrGenerator) | A minimal Python script that generates a QR code from any string or URL. |
-
-📚 Also see [**UniArchive**](https://github.com/mirconegri/University) — my university notes and LaTeX study guides.
-
-## 🌍 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=globe&logoColor=white)](https://mirconegri.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirconegri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirco-negri-263810225)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirconegri06@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirco_negri_?igsh=MWtlbXY0a3R4NTJmNA==)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/172rhaPCUK/)
-
-
-## 📊 GitHub Activity
-
-
-
-![github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
-
-
+<p align="center">
+  <a href="https://mirconegri.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00599C?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/mirconegri"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/mirco-negri-263810225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mirconegri06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
-MIT License © 2026 Mirco Negri
+## About Me
+
+Sono uno studente di Informatica presso l'Università di Trento con un forte interesse per la gestione dei dati, lo sviluppo software e l'automazione. Accanto al percorso accademico, dedico il mio tempo al volontariato attivo e alla crescita della comunità attraverso attività di soccorso e scautismo.
+
+- 🎓 **Attuale:** Laurea Triennale in Informatica (Università di Trento)
+- 💻 **Aree di focus:** Database, Programmazione software, Intelligenza Artificiale e Big Data
+- 🥁 **Interessi civici e personali:** Automazione dei processi, vita di comunità, primo soccorso e musica (batteria)
+
+---
+
+## Education & Certifications
+
+### Education
+* **B.Sc. in Computer Science** — Università di Trento *(Set 2025 – Presente)*
+* **High School Diploma (Applied Science)** — Liceo Primo Levi, Badia Polesine *(2020 – 2025)*
+* **English Intensive Course (C1)** — EF Education First, Dublin *(Giu 2024 – Lug 2024)*
+
+### Certifications
+* **Everyday AI – Introduction to Artificial Intelligence Data** — Università di Trento *(Dic 2025)*
+* **TiDiRES: Responsible Use of Educational Technologies** — Università di Trento *(Dic 2025)*
+* **English B2** — Cambridge English *(Mar 2025)*
+
+---
+
+## Experience & Volunteering
+
+* **IT Lab Teacher** @ *Auser* *(Set 2023 – Feb 2024)*
+  *Conduzione di workshop pratici sull'utilizzo dello smartphone per adulti e anziani, promuovendo l'inclusione digitale.*
+* **Volunteer Rescuer** @ *A.V.P. Associazione Volontari Polesani* *(Mar 2025 – Presente)*
+* **Associate & Volunteer** @ *AGESCI* *(Set 2012 – Presente)*
+
+---
+
+## Skills & Tech Stack
+
+### Hard Skills
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PolyML](https://img.shields.io/badge/PolyML-4B275F?style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Soft Skills
+`Problem Solving` • `Public Speaking` • `Teaching & E-learning` • `Leadership` • `Adaptability` • `Cross-Cultural Communication`
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOS) | Applicazione Android per la gestione personale (esami, finanze, task). | React Native, Expo |
+| 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Bot Telegram per la gestione e prenotazione dei turni lavanderia nello studentato. | Python |
+| 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software per la generazione automatica di menu e liste della spesa per campi scout. | Python |
+| 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Visualizzatore web audio-reattivo per proiezioni live durante eventi universitari. | JS, Web Audio API |
+| 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | Timer di Pomodoro controllato tramite gravità (hardware Arduino in scocca di legno). | C++, Arduino |
+| 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | Desktop app per la raccomandazione di film basata su genere tramite API TMDb. | Python, Tkinter |
+
+*Nota: Tutto il materiale di studio, gli appunti universitari e le dispense scritte in LaTeX sono raccolti nel repository dedicato [**UniArchive**](https://github.com/mirconegri/University).*
+
+---
+
+## GitHub Activity
+
+![github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center"><sub>MIT License © 2026 Mirco Negri</sub></p>
