@@ -18,7 +18,7 @@
 I am a Computer Science student at the University of Trento with a strong interest in data management, software development, and automation. Alongside my academic journey, I dedicate my time to active volunteering and community growth through rescue and scouting activities.
 
 - 🎓 **Current:** B.Sc. in Computer Science (University of Trento)
-- 💻 **Focus Areas:** Databases, Software Programming, Artificial Intelligence, and Big Data
+- 💻 **Focus Areas:** Databases, Software Programming and Artificial Intelligence
 - 🥁 **Civic & Personal Interests:** Process automation, community living, first aid, and music (drums)
 
 ---
