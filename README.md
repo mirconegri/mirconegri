@@ -68,13 +68,13 @@ I am a Computer Science student at the University of Trento with a strong intere
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📸 [**DesktopQualityInspector**](https://github.com/mirconegri/DesktopQualityInspector) | Real-time visual state detection pipeline for mechanical components using a custom-trained YOLO model and live camera feed. | Python, YOLO, OpenCV |
-| 📱 [**LifeOS**](https://github.com/mirconegri/LifeOsApp) | Local-first personal management Android app consolidating university exams, finances, and daily tasks. | React Native, Expo |
-| 🧺 [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Telegram bot for managing and booking laundry shifts at the student dorm. | Python |
-| 🏕️ [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software for automatically generating menus and shopping lists for scout camps. | Python |
-| 🎊 [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Audio-reactive web visualizer for live projections during university events. | JS, Web Audio API |
-| 🍅 [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | Gravity-controlled Pomodoro timer (Arduino hardware inside a wooden shell). | C++, Arduino |
-| 🎬 [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | Desktop app for genre-based movie recommendations using the TMDb API. | Python, Tkinter |
+|  [**DesktopQualityInspector**](https://github.com/mirconegri/DesktopQualityInspector) | Real-time visual state detection pipeline for mechanical components using a custom-trained YOLO model and live camera feed. | Python, YOLO, OpenCV |
+|  [**LifeOS**](https://github.com/mirconegri/LifeOsApp) | Local-first personal management Android app consolidating university exams, finances, and daily tasks. | React Native, Expo |
+|  [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Telegram bot for managing and booking laundry shifts at the student dorm. | Python |
+|  [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software for automatically generating menus and shopping lists for scout camps. | Python |
+|  [**Carnival Visual Effects**](https://github.com/mirconegri/CarnivalVisualEffects) | Audio-reactive web visualizer for live projections during university events. | JS, Web Audio API |
+|  [**Pomodoro Gravity Cube**](https://github.com/mirconegri/PomodoroGravityCube) | Gravity-controlled Pomodoro timer (Arduino hardware inside a wooden shell). | C++, Arduino |
+|  [**MovieRecommender**](https://github.com/mirconegri/MovieRecommender) | Desktop app for genre-based movie recommendations using the TMDb API. | Python, Tkinter |
 
 *Note: All study materials, university notes, and LaTeX cheat sheets are collected in the dedicated repository [**UniArchive**](https://github.com/mirconegri/University).*
 
