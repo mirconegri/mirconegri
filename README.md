@@ -19,7 +19,7 @@ I am a Computer Science student at the University of Trento with a strong intere
 
 - 🎓 **Current:** B.Sc. in Computer Science (University of Trento)
 - 💻 **Focus Areas:** Databases, Software Programming and Artificial Intelligence
-- 🥁 **Civic & Personal Interests:** Process automation, community living, first aid, and music (drums)
+- 🥁 **Civic & Personal Interests:** Process automation, community living, first aid, and drums
 
 ---
 
