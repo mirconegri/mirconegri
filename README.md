@@ -69,6 +69,7 @@ I am a Computer Science student at the University of Trento with a strong intere
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 |  [**DesktopQualityInspector**](https://github.com/mirconegri/DesktopQualityInspector) | Real-time visual state detection pipeline for mechanical components using a custom-trained YOLO model and live camera feed. | Python, YOLO, OpenCV |
+|  [**LifeOS**](https://github.com/mirconegri/LifeOsApp) | An automated algorithmic trading script executing a Cross-Sectional Momentum strategy on top US Tech stocks via the Alpaca API | Python |
 |  [**LifeOS**](https://github.com/mirconegri/LifeOsApp) | Local-first personal management Android app consolidating university exams, finances, and daily tasks. | React Native, Expo |
 |  [**LaundryBot**](https://github.com/mirconegri/LaundryBot) | Telegram bot for managing and booking laundry shifts at the student dorm. | Python |
 |  [**ScoutMealPlanner**](https://github.com/mirconegri/ScoutMealPlanner) | Software for automatically generating menus and shopping lists for scout camps. | Python |
