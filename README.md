@@ -1,7 +1,7 @@
 <h1 align="center">Mirco Negri</h1>
 <p align="center">
   <strong>Computer Science Student @ University of Trento</strong><br>
-  <span>Software Developer • Volunteer Rescuer • Tech Enthusiast</span>
+  <span> Volunteer Rescuer • Tech Enthusiast</span>
 </p>
 
 <p align="center">
