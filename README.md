@@ -80,7 +80,6 @@ I am a Computer Science student at the University of Trento with a strong intere
 *Note: All study materials, university notes, and LaTeX cheat sheets are collected in the dedicated repository [**UniArchive**](https://github.com/mirconegri/University).*
 
 ---
-
 ## GitHub Activity
 
 ![github activity graph](https://raw.githubusercontent.com/mirconegri/mirconegri/output/github-contribution-grid-snake-dark.svg)
