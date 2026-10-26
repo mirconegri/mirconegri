@@ -68,7 +68,7 @@ I am a Computer Science student at the University of Trento with a strong intere
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**TEPO**](https://github.com/mirconegri/tepo) | Decision support system for the Municipality of Trento to optimize and prioritize energy efficiency investments across municipal buildings. | Software Architecture, Optimization Engine |
+| [**TEPO**](https://github.com/T-E-P-O/TEPO) | Decision support system for the Municipality of Trento to optimize and prioritize energy efficiency investments across municipal buildings. | Software Architecture, Optimization Engine |
 | [**Two**](https://github.com/mirconegri/two-couple-app) | Local-first Android app for two people featuring a private 1-to-1 chat and shared calendar, backed by encrypted on-device SQLite (SQLCipher) and Supabase RLS. | React Native, TypeScript, Expo, Supabase, SQLite |
 |[**Receipt Scanner**](https://github.com/mirconegri/receipt-scanner) | Privacy-first mobile app that scans paper receipts using on-device ML Kit OCR and extracts structured data to a local SQLite database. | React Native, TypeScript, Expo, SQLite |  
 [**DesktopQualityInspector**](https://github.com/mirconegri/DesktopQualityInspector) | Real-time visual state detection pipeline for mechanical components using a custom-trained YOLO model and live camera feed. | Python, YOLO, OpenCV |
