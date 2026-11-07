@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mirconegri.com/" target="_blank"><img src="./website.svg" width="32" height="32" alt="Website" /></a>
+  <a href="https://mirconegri.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="32" height="32" alt="Website" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/mirconegri?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="32" height="32" alt="GitHub" /></a>
   &nbsp;&nbsp;
